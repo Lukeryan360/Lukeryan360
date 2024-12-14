@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Luke Ryan
+- 👀 I’m interested in data analytics and console modding
+- 🌱 I’m currently learning Python and R
+- 📫 How to reach me: lukeryan360@gmail.com or @mr.lukeryan on Instagram
+- 😄 Pronouns: he/they
+- ⚡ Fun fact: The cocktail, the "Manhattan", was named not after the Manhattan Club in which it was invented, rather after the area code, 212, matching the drink's ingredient ratio.
